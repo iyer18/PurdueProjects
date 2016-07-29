@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MatchFragment" >
+
+    <!-- TODO your layout here -->
+
+    <TextView
+        android:id="@+id/tv_log1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/light_grey"
+        android:minHeight="75dp"
+        android:padding="@dimen/padding"
+        android:textSize="@dimen/text_size_small" />
+
+    <TextView
+        android:id="@+id/tv_log2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_log1"
+        android:background="@color/light_grey"
+        android:minHeight="75dp"
+        android:padding="@dimen/padding"
+        android:textSize="@dimen/text_size_small" />
+
+    <TextView
+        android:id="@+id/tv_log3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_log2"
+        android:background="@color/light_grey"
+        android:minHeight="75dp"
+        android:padding="@dimen/padding"
+        android:textSize="@dimen/text_size_small"/>
+
+    <TextView
+        android:id="@+id/tv_log4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_log3"
+        android:background="@color/light_grey"
+        android:minHeight="75dp"
+        android:padding="@dimen/padding"
+        android:textSize="@dimen/text_size_small" />
+
+    <TableLayout
+        android:id="@+id/tl_match"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_log4"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/light_grey"
+        android:stretchColumns="1" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_partner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding"
+                android:text="@string/partner"
+                android:textSize="@dimen/title_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_partnerResponse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/mint_green"
+                android:padding="@dimen/padding"
+                android:textSize="@dimen/title_size" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_fromMatch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding"
+                android:text="@string/from"
+                android:textSize="@dimen/title_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_fromResponse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/mint_green"
+                android:padding="@dimen/padding"
+                android:textSize="@dimen/title_size" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_toMatch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding"
+                android:text="@string/to"
+                android:textSize="@dimen/title_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_toResponse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/mint_green"
+                android:padding="@dimen/padding"
+                android:textSize="@dimen/title_size" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tv_congrats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tl_match"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="70dp"
+        android:background="@color/red"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="@dimen/title_size" />
+
+    <Button
+        android:id="@+id/bu_start_over"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@color/salmon"
+        android:gravity="center"
+        android:minHeight="60dp"
+        android:minWidth="150dp"
+        android:padding="@dimen/padding"
+        android:text="@string/start_over"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

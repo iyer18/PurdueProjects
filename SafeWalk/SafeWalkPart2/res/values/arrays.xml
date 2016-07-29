@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fromLocations">
+        <item>"EE"</item>
+        <item>"PUSH"</item>
+        <item>"PMU"</item>
+        <item>"CL50"</item>
+        <item>"LWSN"</item>
+    </string-array>
+    <string-array name="toLocations">
+        <item>"EE"</item>
+        <item>"PUSH"</item>
+        <item>"PMU"</item>
+        <item>"CL50"</item>
+        <item>"LWSN"</item>
+        <item>"*"</item>
+    </string-array>
+
+</resources>

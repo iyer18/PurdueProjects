@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SafeWalk</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="submit">Submit</string>
+    <string name="match">Match</string>
+    <string name="start_over">Start Over</string>
+    <string name="default_host">10.0.2.2</string>
+    <string name="default_port">8888</string>
+    <string name="default_command">:FAKE_COMMAND</string>
+    <string name="default_name">Your Name</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="name">Name</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="congrats">"Congratulations! A match has been found!"</string>
+    <string name="waiting">"Waiting for your soulmate..."</string>
+    <string name="failed">"WARNING: Connection to server failed!"</string>
+    <string name ="partner">Partner</string>
+    <string name="pref">Preferences</string>
+    <string name="requester1">"I am a requester. Match me with volunteers only."</string>
+    <string name="requester0">"I have no preference being a requester or a volunteer."</string>
+    <string name="requester2">"I'm a volunteer. Don't match me with another volunteer."</string>
+	<string name="antihuman">"This UI is not anti-human. You are safe."</string>
+</resources>
