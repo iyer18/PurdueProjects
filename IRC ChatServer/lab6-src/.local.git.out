@@ -1,0 +1,4611 @@
+[master (root-commit) 195006e] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 811 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 HashTableVoid.cc
+ create mode 100644 HashTableVoid.h
+ create mode 100755 HashTableVoidTest
+ create mode 100644 HashTableVoidTest.cc
+ create mode 100755 IRCServer
+ create mode 100644 IRCServer.cc
+ create mode 100644 IRCServer.h
+ create mode 100755 Makefile
+ create mode 100755 talk-server
+ create mode 100755 testall
+[master 31a87fe] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 35 insertions(+)
+ create mode 100644 .local.total.out
+ create mode 100644 diff.out
+ create mode 100644 total.out
+ create mode 100644 total.txt
+[master 3f7cda3] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 2 deletions(-)
+ rename diff.out => none (100%)
+ delete mode 100644 total.out
+[master d546088] 12 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 26 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 0c99a0a] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 18 insertions(+), 2 deletions(-)
+ create mode 100755 HashTableVoidTest.org
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master e4c08cd] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 32 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master e7d364c] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master a203c20] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master ce9b998] otal of otalmax
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 504054b] 0 of 12
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master eae3703] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 76 insertions(+), 7 deletions(-)
+ rewrite HashTableVoidTest (86%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master c9431cc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+[master 6378f2c] 0 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 21 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master cd38b8a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 5 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 452834e] 0 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 555c078] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 112 insertions(+), 69 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 641af71] 2 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 26 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 10c407b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 20 insertions(+), 7 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 5c0c29a] 2 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 5c96295] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 22 insertions(+), 9 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master dcbd518] 2 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master d3bc703] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 32 insertions(+), 10 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 02060de] 2 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master d190f49] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 19 insertions(+), 6 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 35afba4] 2 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 25 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 3869d07] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 20 insertions(+), 7 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 4175d60] 8 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 28 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 00a4ce5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 19 insertions(+), 6 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master bb03942] 12 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 26 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master a7b79c2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+[master 7b7e36f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 14 insertions(+), 4 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 8b75fd1] 12 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 24 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master 91da2b9] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab24.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 4 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master a58b9c8] 12 of 12
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab24.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 24 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 total.out
+[master ff5f5d4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@sslab24.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+[master f352858] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 18 files changed, 1074 insertions(+), 20 deletions(-)
+ create mode 100755 IRCServer.org
+ create mode 100644 LinkedList.c
+ create mode 100644 LinkedList.h
+ create mode 100755 TestIRCServer
+ create mode 100755 test-server1.sh
+ create mode 100755 test-server10.sh
+ create mode 100755 test-server2.sh
+ create mode 100755 test-server3.sh
+ create mode 100755 test-server4.sh
+ create mode 100755 test-server5.sh
+ create mode 100755 test-server6.sh
+ create mode 100755 test-server7.sh
+ create mode 100755 test-server8.sh
+ create mode 100755 test-server9.sh
+[master d38ab4e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 28 insertions(+), 4 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 total.out
+[master 977b446] 12 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 366 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 password.txt
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 3ea86f5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 37 insertions(+), 17 deletions(-)
+ rename LinkedList.c => LinkedList.cc (92%)
+[master dcf43f9] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 23 insertions(+), 3 deletions(-)
+ create mode 100644 .IRCServer.h.swp
+[master b3dba2e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 77 insertions(+), 47 deletions(-)
+ rename .IRCServer.h.swp => .LinkedList.h.swp (85%)
+[master 3daaa2c] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+)
+ delete mode 100644 .LinkedList.h.swp
+[master fc7e3d4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 44 insertions(+), 347 deletions(-)
+ rewrite IRCServer (88%)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 73c2770] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+)
+[master 17cb644] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 24 insertions(+), 25 deletions(-)
+ delete mode 100644 password.txt
+ rewrite total.txt (63%)
+[master 56f4948] 12 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 346 insertions(+), 4 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 password.txt
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 328ee07] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 24 insertions(+), 1 deletion(-)
+ rewrite IRCServer (72%)
+[master 56ac71a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 22 insertions(+), 13 deletions(-)
+ rewrite IRCServer (70%)
+ delete mode 100644 password.txt
+[master 141d617] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+[master dda66a8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 15 insertions(+)
+ create mode 100644 .LinkedList.cc.swp
+ create mode 100644 password.txt
+[master b5a5d43] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+)
+[master 9d8c37f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+)
+[master 1b37374] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 1 deletion(-)
+ delete mode 100644 .LinkedList.cc.swp
+[master f2edf6b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 34 insertions(+), 13 deletions(-)
+ rewrite IRCServer (85%)
+[master 1e4e41a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+[master f25214e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 8ac255d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+)
+[master b3f2990] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+)
+[master a336cb8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 4 deletions(-)
+[master 0affff5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+ rewrite IRCServer (72%)
+[master 8229b0e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+[master 6ee6fd3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 2 deletions(-)
+[master 4912abc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 2a8b404] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+)
+ create mode 100644 .LinkedList.cc.swp
+ rewrite IRCServer (66%)
+[master ef75690] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+[master b15a59f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 32 insertions(+), 11 deletions(-)
+ delete mode 100644 .LinkedList.cc.swp
+ rewrite IRCServer (79%)
+[master f5fae80] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+[master fb19605] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 5 deletions(-)
+ rewrite IRCServer (67%)
+[master 875e587] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 28 insertions(+), 2 deletions(-)
+[master 0c26bf2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 19 insertions(+), 1 deletion(-)
+[master 2621080] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 14 deletions(-)
+[master a8879c8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.h.swp
+[master 624dbbb] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+)
+ delete mode 100644 .LinkedList.h.swp
+[master c54571e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 15 insertions(+), 309 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 57cd92f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 52 insertions(+), 7 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 21541cf] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 20 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 1e3e2de] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 31 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master e62b7ac] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 13 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 4dda773] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 283 insertions(+), 2 deletions(-)
+ create mode 100644 .WordTable.h.swp
+ create mode 100644 WordTable.cc
+ create mode 100644 WordTable.h
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 25812da] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 30 insertions(+), 22 deletions(-)
+ delete mode 100644 .WordTable.h.swp
+ delete mode 100644 password.txt
+[master 87bfeb6] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 16 insertions(+), 1 deletion(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master e9a80d6] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 33 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 password.txt
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master f685fb2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 499 insertions(+), 75 deletions(-)
+ rewrite IRCServer (90%)
+ create mode 100644 LinkedList1.cc
+ create mode 100644 LinkedList1.h
+ rename WordTable.cc => RoomTable.cc (60%)
+ rename WordTable.h => RoomTable.h (54%)
+[master 9f13afc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 13 deletions(-)
+ delete mode 100644 diff.out
+ rename talk-server.out => make (100%)
+ delete mode 100644 prog.out
+[master c26fdc5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 91 insertions(+), 11 deletions(-)
+ rewrite IRCServer (82%)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master a46f9e3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+)
+[master f716b8e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+)
+[master ac94fd7] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+)
+[master 28325ab] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 14 insertions(+), 13 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 99f80ae] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+[master d148c81] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 14 insertions(+), 12 deletions(-)
+[master e1117e4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+)
+[master 61a1845] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 19 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+[master c79a220] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+[master 0f24ce8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 33 insertions(+), 8 deletions(-)
+[master 5470347] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+[master f696470] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master 32fc4cb] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 28d76d5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 6 deletions(-)
+[master 27dd2d4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 16 insertions(+), 2 deletions(-)
+ create mode 100644 talk-server.out
+[master d0bc8f4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 133 insertions(+), 57 deletions(-)
+ rewrite IRCServer (74%)
+[master 8e562d0] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master 3d911bb] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 95 insertions(+), 66 deletions(-)
+ rewrite IRCServer (72%)
+[master 88020c6] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 28 insertions(+)
+[master bcba3b6] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 16 insertions(+), 12 deletions(-)
+ create mode 100644 .LinkedList.h.swp
+[master 66ac85b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+)
+ delete mode 100644 .LinkedList.h.swp
+[master 10322c1] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 1 deletion(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master cc04e01] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+[master 814a509] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 75 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master f9c92bc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 58 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master b00d42b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 103 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master f9199c8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 30 insertions(+), 82 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 89a1664] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 135 insertions(+), 6 deletions(-)
+ rewrite IRCServer (76%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 1fee171] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+[master 7b0a619] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 15 deletions(-)
+[master 7651769] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 14 insertions(+), 73 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master f326ebd] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 561 insertions(+), 3 deletions(-)
+ rewrite IRCServer (77%)
+ create mode 100644 MessageList.cc
+ create mode 100644 MessageList.h
+ create mode 100644 RoomTable.hc
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master b782675] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 22 insertions(+), 119 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 802b827] 32 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 289 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master a7076ec] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 36 insertions(+), 4 deletions(-)
+[master a7c27ef] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 48 insertions(+), 10 deletions(-)
+ rewrite IRCServer (75%)
+[master e219f6f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 38 insertions(+), 14 deletions(-)
+ rewrite IRCServer (73%)
+[master 68efe53] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 49 insertions(+), 22 deletions(-)
+ rewrite IRCServer (76%)
+[master ad6b074] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 28 insertions(+)
+[master 4e22e89] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 1d66687] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 34 insertions(+), 17 deletions(-)
+ rewrite IRCServer (63%)
+[master 0989f8f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 113 insertions(+), 83 deletions(-)
+ rewrite IRCServer (76%)
+[master 2e7533d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 25 insertions(+), 8 deletions(-)
+ rewrite IRCServer (82%)
+[master 03c27aa] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 17 insertions(+), 1 deletion(-)
+ create mode 100755 .nfs0000000000536f7d00002581
+[master f1951c3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 16 insertions(+)
+ create mode 100755 .nfs0000000000536f8700002582
+ rename .nfs0000000000536f7d00002581 => IRCServer (66%)
+[master 625ed88] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 23 insertions(+), 3 deletions(-)
+ rename .nfs0000000000536f8700002582 => .nfs0000000000536f8100002583 (60%)
+[master 5d955bb] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+)
+[master 83f790d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+ rename .nfs0000000000536f8100002583 => IRCServer (50%)
+[master c69100e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+[master 04b06fe] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 52092e2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 3 deletions(-)
+[master ca833b6] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+)
+[master 481fd7a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master 9de529f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+)
+[master d5aaf9d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 255 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master d1a2802] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 185 insertions(+), 18 deletions(-)
+ rewrite IRCServer (75%)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 653e194] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+)
+ rewrite IRCServer (60%)
+[master f9edf6e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+[master 73fb6d3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 28 insertions(+), 1 deletion(-)
+[master 0025a18] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 155 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master d0cbabd] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 62 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 35600e7] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 31 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master a235ccc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 38 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master ea6f5cc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 19 insertions(+), 13 deletions(-)
+[master c63fe10] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 2 deletions(-)
+[master 22fafa3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+)
+[master dc74d52] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 15f69e2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 36 insertions(+), 45 deletions(-)
+ rewrite IRCServer (73%)
+[master e3bdc5f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 9 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 11d0345] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 173 insertions(+), 4 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master e854d5b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 36 insertions(+), 4 deletions(-)
+ rewrite IRCServer (66%)
+[master 5086aad] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 27 insertions(+), 15 deletions(-)
+[master b3ebb70] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master e6205e5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master dbebfbf] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master ef6abe0] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 30 insertions(+), 8 deletions(-)
+ rewrite IRCServer (63%)
+[master dbefaee] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 3 deletions(-)
+[master 448344d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 0625853] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master e658669] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 04e82ee] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 2 deletions(-)
+[master d3efcb8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+)
+[master 99e70b8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 33d618e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 2f5ea08] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 14 insertions(+), 154 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 19bef48] 42 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 301 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master a067db3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 29 insertions(+)
+[master 4080e69] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 15 deletions(-)
+[master 55e7a9c] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 4 deletions(-)
+[master 36e3f68] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 27 insertions(+), 7 deletions(-)
+[master 229bbca] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 53 insertions(+), 25 deletions(-)
+[master c916d38] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 5 deletions(-)
+[master b706388] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 267 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 4cb4115] 42 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 267 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 7094144] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 23 insertions(+), 1 deletion(-)
+[master 5eb5691] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 16 insertions(+), 14 deletions(-)
+ rewrite IRCServer (67%)
+[master 2f871e7] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 15 insertions(+), 235 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master f78f273] 47 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 266 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 190a0f2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 27 insertions(+), 4 deletions(-)
+[master 17ff625] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 14 insertions(+), 247 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master fb3a7b9] 52 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 263 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 8858d8d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 23 insertions(+)
+[master 3aa73a7] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 13 deletions(-)
+[master 6451261] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 30 insertions(+), 16 deletions(-)
+[master 4ae70e9] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 5 deletions(-)
+[master 8324b8e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+[master 19d78e3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master cb91e19] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 232 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 45725d9] 57 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 263 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master e27d01b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+[master b7ed197] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 12 deletions(-)
+[master 29d6efd] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 0e52cd4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 23 insertions(+), 232 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 71d1902] 22 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 256 insertions(+), 7 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 6b30fe0] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 22 insertions(+), 12 deletions(-)
+[master 2944e3d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 228 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 517fdbc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 34 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 8b70eff] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 32 insertions(+), 13 deletions(-)
+[master d83dd55] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 14 insertions(+), 1 deletion(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 68adf76] 22 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 251 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 1a35a80] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 10 deletions(-)
+[master 0cbe151] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 229 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 88a9431] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 112 insertions(+), 10 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 7287874] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 89 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master d565542] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 101 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 58e42a3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 82 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master 3287f07] 52 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 263 insertions(+), 2 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master e8aa561] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 24 insertions(+), 227 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 71c8462] 52 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 246 insertions(+), 3 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 82760d5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 25 insertions(+), 2 deletions(-)
+[master c8994bf] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 225 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master f8c6026] 57 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 247 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 4691b19] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+[master eb0aad8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 10 deletions(-)
+[master c4b057b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 4b04838] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 15cb44a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 225 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 93c2cca] 52 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 251 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 1da0d68] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 24 insertions(+), 2 deletions(-)
+[master 9e4a1ef] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 20 insertions(+), 14 deletions(-)
+ create mode 100644 .MessageList.cc.swp
+[master fbff47c] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 50 insertions(+), 40 deletions(-)
+ delete mode 100644 .MessageList.cc.swp
+ rewrite IRCServer (71%)
+[master b50399d] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 16 insertions(+), 220 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 73cff2c] 22 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 256 insertions(+), 6 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 0de3b9a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 24 insertions(+), 2 deletions(-)
+[master d6c90e0] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 26 insertions(+), 21 deletions(-)
+ create mode 100755 .nfs00000000005310570000258e
+[master 2890084] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 17 insertions(+), 2 deletions(-)
+ delete mode 100755 .nfs00000000005310570000258e
+[master ff4e762] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+[master 3aa5f30] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 4596680] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 24 insertions(+)
+[master 6351565] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 10 deletions(-)
+[master e9d6657] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 5 deletions(-)
+[master 69e725a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 4 deletions(-)
+[master 5177c0f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 5 deletions(-)
+[master 85c4d07] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 8 deletions(-)
+[master 42ba6fc] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master b953b1f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master 4e8f102] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master f0e6864] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+[master 010c36f] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 220 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master e20cfb1] 57 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 262 insertions(+), 7 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 12ff0dd] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 25 insertions(+)
+[master 7bc6d7e] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15 insertions(+), 10 deletions(-)
+[master ad70ea3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master c3ffa3b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+[master 1dd054b] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+[master 14ab909] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 2 deletions(-)
+[master 49d7757] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 3 deletions(-)
+[master 048b91a] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 225 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 78b53ba] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 117 insertions(+), 13 deletions(-)
+ create mode 100644 .MessageList.cc.swp
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 3f818e0] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 86 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master ebf6d2a] 27 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 252 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master fd96565] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 1 deletion(-)
+ delete mode 100644 .MessageList.cc.swp
+[master 44bc6cb] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 15 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master ba683d2] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 76 insertions(+), 12 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+[master 84df5f8] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+[master 000c677] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 3 deletions(-)
+[master 9592d31] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 406 insertions(+), 384 deletions(-)
+ rewrite RoomTable.cc (66%)
+[master 06bd70c] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 15 insertions(+), 57 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+[master d04ad5e] 57 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 254 insertions(+), 5 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 0f6ab78] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+[master 6a42047] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 217 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master bd84bd2] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 238 insertions(+), 1 deletion(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 040eaad] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 19 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 3aa69a8] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 237 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master a3d0083] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+[master 1d99951] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master bfca691] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 237 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master 70c9ea9] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 103 insertions(+), 61 deletions(-)
+ rewrite IRCServer (69%)
+[master 7b54813] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 15 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 1487f7a] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 237 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master a53c707] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+[master f8d7b43] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 15 insertions(+)
+[master 4841d0c] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 14 insertions(+), 9 deletions(-)
+[master b3bd6d5] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 14 insertions(+), 216 deletions(-)
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 22bca77] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 246 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master f243dc3] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 9 deletions(-)
+ create mode 100755 .nfs0000000000536f5200002d49
+[master 71eaea4] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 15 insertions(+), 216 deletions(-)
+ delete mode 100755 .nfs0000000000536f5200002d49
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master 4cbf276] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 247 insertions(+)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+[master b3839d1] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+[master 1bda394] Make IRCServer
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 14 insertions(+), 225 deletions(-)
+ create mode 100755 .nfs00000000005370b400001eac
+ delete mode 100644 diff.out
+ delete mode 100644 prog.org.out
+ delete mode 100644 prog.out
+ delete mode 100644 talk-server.out
+ delete mode 100644 total.out
+[master ff73905] 62 of 62
+ Committer: Rajalakshmy Sivaramakrishnan Iyer <iyer18@borg23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 263 insertions(+), 16 deletions(-)
+ create mode 100644 diff.out
+ create mode 100644 prog.org.out
+ create mode 100644 prog.out
+ create mode 100644 talk-server.out
+ create mode 100644 total.out
+ rewrite total.txt (63%)
